@@ -1,10 +1,10 @@
-👋 Hi, I’m @KakkadTanvi  
-🎯 Aspiring Data Analyst | Python • SQL • Power BI • Excel  
+👋 Hi, I’m @KakkadTanvi
+🎯 Aspiring Flutter Developer | Dart • Flutter • Firebase • UI/UX
 
-- 👀 I’m interested in data analytics, dashboard design, and data-driven decision making  
-- 🌱 I’m currently learning Python (Pandas, NumPy), MySQL, and Power BI  
-- 💞️ I’m looking to collaborate on data cleaning, analysis, and visualization projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanvi-kakkad-484a78314/) | tanviskakkad@gmail.com  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love simplifying messy data into meaningful stories!
+👀 I’m interested in mobile app development, clean UI design, and cross-platform solutions
+🌱 I’m currently learning advanced Flutter concepts, Firebase integration, and API handling
+💞️ I’m looking to collaborate on Flutter apps, especially UI design and backend integration
+📫 How to reach me: LinkedIn | tanviskakkad@gmail.com
+😄 Pronouns: she/her
+⚡ Fun fact: I love turning real-world problems into sleek, functional apps!
 
