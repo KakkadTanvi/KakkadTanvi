@@ -1,15 +1,27 @@
-👋 Hi, I’m @KakkadTanvi
-🎯 Aspiring Flutter Developer | Dart • Flutter • Firebase • UI/UX
+ Hi, I’m @KakkadTanvi
+🎓 MSc IT Student | Open for Internships and fresher role | Data • App Dev • Web
 
-👀 I’m interested in mobile app development, clean UI design, and cross-platform solutions
+👀 Passionate about solving real-world problems through data, design, and development
 
-🌱 I’m currently learning advanced Flutter concepts, Firebase integration, and API handling
+🌱 Currently exploring:
 
-💞️ I’m looking to collaborate on Flutter apps, especially UI design and backend integration
+📊 Data Analytics: Python, Pandas, SQL, Power BI
 
-📫 How to reach me: LinkedIn | tanviskakkad@gmail.com
+📱 App Development: Flutter, Firebase, UI/UX
 
-😄 Pronouns: she/her
+🌐 Web Tech: PHP, MySQL, React (basic)
 
-⚡ Fun fact: I love turning real-world problems into sleek, functional apps!
+💼 Seeking opportunities in:
+
+Data Analyst / ML Intern
+
+Flutter App Developer
+
+Web Developer
+
+📫 Contact: LinkedIn | tanviskakkad@gmail.com
+
+🎯 Goal: To build efficient, scalable, and user-friendly digital solutions
+
+⚡ Fun fact: I enjoy turning both raw data and app ideas into structured success stories!
 
